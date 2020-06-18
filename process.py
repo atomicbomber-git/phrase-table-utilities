@@ -1,5 +1,10 @@
 #! /usr/bin/python3
 
+#
+# CARA PENGGUNAAN
+# Di terminal ketikkan
+# ./process.py pnk-indo indo-sambas > output.txt
+
 import sys
 import os
 import math
